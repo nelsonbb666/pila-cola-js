@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Pila y Cola</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Pila y Cola</h1>
+
+<div class="container">
+
+    <div>
+        <h2>Pila (Stack)</h2>
+        <input type="text" id="pilaInput" placeholder="Valor">
+        <button onclick="push()">Insertar</button>
+        <button onclick="pop()">Eliminar</button>
+        <ul id="pilaLista"></ul>
+    </div>
+
+    <div>
+        <h2>Cola (Queue)</h2>
+        <input type="text" id="colaInput" placeholder="Valor">
+        <button onclick="enqueue()">Insertar</button>
+        <button onclick="dequeue()">Eliminar</button>
+        <ul id="colaLista"></ul>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
