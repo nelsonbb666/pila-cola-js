@@ -1,4 +1,4 @@
-# Proyecto Pila y Cola
+# Actividad Pila y Cola
 
 ## Descripción
 Aplicación web para insertar y eliminar elementos en una pila y una cola.
