@@ -14,4 +14,4 @@ Aplicación web para insertar y eliminar elementos en una pila y una cola.
 - JavaScript
 - Git y GitHub
 
-Agregado: Proyecto funcional de pila y cola
+Proyecto funcional de pila y cola
