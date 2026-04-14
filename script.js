@@ -42,6 +42,8 @@ function dequeue() {
     mostrarCola();
 }
 
+// función pila mejorada
+
 function mostrarCola() {
     let lista = document.getElementById("colaLista");
     lista.innerHTML = "";
